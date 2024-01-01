@@ -1,1 +1,1 @@
-Hi, I'm Mert Emir Kaya, I'm living in Turkey, I've been studying Computer Engineering(Computer Science) at KARADENIZ TECHNICAL UNIVERSITY and I'm in second grade. I'm interested in web development and cloud computing. I'm writing Python and NodeJS.
+Hi, I'm Mert Emir Kaya, I'm living in Turkey, I've been studying Computer Engineering(Computer Science) at KARADENIZ TECHNICAL UNIVERSITY and I'm in third grade. I'm interested in web development and devops. I'm writing Python and NodeJS.
