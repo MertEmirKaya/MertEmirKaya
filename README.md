@@ -1,1 +1,1 @@
-Hi, I'm Mert Emir Kaya, I'm living in Turkey, I've been studying Computer Engineering(Computer Science) at KARADENIZ TECHNICAL UNIVERSITY and I'm in third grade. I'm interested in web development and devops. I'm writing Python and NodeJS.
+Hey there! I'm Mert Emir Kaya, a Computer Engineering (Computer Science) student currently navigating my way through the third year at Karadeniz Technical University in Turkey. 🚀 My passion lies in web development and DevOps with a strong focus on Python and Node.js.
