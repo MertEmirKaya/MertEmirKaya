@@ -1,1 +1,1 @@
-Hey there! I'm Mert Emir Kaya, a Computer Engineering (Computer Science) student currently navigating my way through the third year at Karadeniz Technical University in Turkey. 🚀 My passion lies in web development and DevOps with a strong focus on Python and Node.js.
+Hey there! I'm Mert Emir Kaya, a Computer Engineering (Computer Science) student currently navigating my way through the last year at Karadeniz Technical University in Turkey. 🚀 My passion lies in web development and DevOps.
